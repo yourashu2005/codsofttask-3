@@ -24,5 +24,5 @@ Key Activities:
    Enhance user engagement by adding JavaScript-driven interactivity, such as smooth scrolling, animated call-to-action buttons, or dynamic content loading based on user actions. 
 -------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
    **OUTPUT**
-   ![image](https://github.com/user-attachments/assets/5ad91d27-cc94-4004-8a2e-eb39c92c24ab)
+   ![image](https://github.com/user-attachments/assets/e2ebbe07-9a36-49a2-997b-8c08b1b50ed1)
 
